@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="answer_1a">Ответ 1</string>
+    <string name="answer_1b">Ответ 2</string>
+    <string name="answer_1c">Ответ 3</string>
+    <string name="answer_1d">Ответ 4</string>
+</resources>
